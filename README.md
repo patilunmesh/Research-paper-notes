@@ -3,3 +3,5 @@ Reading papers related to motion planning and control,  and summarizing.
 
 #Paper 1 notes link::
 https://gist.github.com/patilunmesh/361fdb54d6feee3110618d6c1a31b57b
+#Paper 1 link:::
+https://ieeexplore.ieee.org/abstract/document/7339478
